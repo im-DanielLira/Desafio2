@@ -281,3 +281,19 @@ footer ::placeholder{
 }
 
 
+body{
+    animation: daniel 2s ease forwards;
+}
+
+@keyframes daniel {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+
+
+}
+
+
